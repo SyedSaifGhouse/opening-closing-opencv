@@ -70,7 +70,7 @@ import matplotlib.pyplot as plt
 
 img = np.zeros((400, 600), dtype=np.uint8)
 
-cv2.putText(img, "AJIN A", (80, 200),
+cv2.putText(img, "SYED SAIF", (80, 200),
             cv2.FONT_HERSHEY_SIMPLEX, 1.5, 255, 3)
 
 kernel = np.ones((5, 5), np.uint8)
@@ -102,18 +102,15 @@ plt.show()
 
 ### Original Image
 
-<img width="498" height="370" alt="image" src="https://github.com/user-attachments/assets/da1d5fd2-e4cb-49c8-80ae-5947673c58cd" />
-
-
+<img width="507" height="381" alt="image" src="https://github.com/user-attachments/assets/f22e2d89-a945-421a-8a72-e5b5a80c83e2" />
 
 ### Opening Operation
-<img width="488" height="363" alt="image" src="https://github.com/user-attachments/assets/d66f3953-52dd-46a4-bcf1-08b84ac0b447" />
 
-
+<img width="495" height="365" alt="image" src="https://github.com/user-attachments/assets/41f3a746-68ee-4c45-be19-234c7a373d03" />
 
 ### Closing Operation
 
-<img width="492" height="356" alt="image" src="https://github.com/user-attachments/assets/d5f81f1d-9bfb-47f3-a930-3be4a3124235" />
+<img width="502" height="372" alt="image" src="https://github.com/user-attachments/assets/159f2da6-7a13-41e4-badd-663c661e1201" />
 
 
 ## Applications
